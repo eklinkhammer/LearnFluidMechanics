@@ -2,7 +2,11 @@
 
 module Lectures.Lecture2
 (
-    totalMass
+    totalMass,
+    weight,
+    densityAir,
+    densityWater,
+    buoyancy
 ) where
 
 import Numeric.Units.Dimensional.Prelude
